@@ -6,6 +6,6 @@ This repository is here so students can fork it and add their sql scripts. The r
 How to Run
 ==========
 
-In the command line
-1. `psql -d postgres -U gschool_user -f create_url_shortener_database.sql` to create a database
-2. `psql -d url_shortener_bebe_peng -U gschool_user -f all_of_the_other_commands.sql` to create the table and find rows
+In the command line  
+1. `psql -d postgres -U gschool_user -f create_url_shortener_database.sql` to create a database  
+2. `psql -d url_shortener_bebe_peng -U gschool_user -f all_of_the_other_commands.sql` to create the table and find rows  
