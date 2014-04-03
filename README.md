@@ -7,5 +7,5 @@ How to Run
 ==========
 
 In the command line
-`psql -d postgres -U gschool_user -f create_url_shortener_database.sql` to create a database
-`psql -d url_shortener_bebe_peng -U gschool_user -f all_of_the_other_commands.sql` to create the table and find rows
+1. `psql -d postgres -U gschool_user -f create_url_shortener_database.sql` to create a database
+2. `psql -d url_shortener_bebe_peng -U gschool_user -f all_of_the_other_commands.sql` to create the table and find rows
